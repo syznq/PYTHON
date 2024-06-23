@@ -1,3 +1,3 @@
 # testings
 
-** These are my projects in testing or in WIP. **
+**These are my projects in testing or in WIP.**

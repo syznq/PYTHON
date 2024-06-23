@@ -7,4 +7,4 @@
 
 *ALL FILES ARE IN PYTHON.*
 
-**Libraries Used: tkinter, pyperclip, and win10toast.**
+**Libraries Used: tkinter.**

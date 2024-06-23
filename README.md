@@ -3,7 +3,7 @@
 
 # Python Projects 💻
 
-**These are my projects or WIP.**
+**These are my projects that are Work In Progress. (WIP)**
 
 *ALL FILES ARE PYTHON.*
 **Libraries Used: tkinter.**

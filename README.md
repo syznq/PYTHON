@@ -5,5 +5,6 @@
 
 **These are my projects that are Work In Progress. (WIP)**
 
-*ALL FILES ARE PYTHON.*
+*ALL FILES ARE IN PYTHON.*
+
 **Libraries Used: tkinter, pyperclip, and win10toast.**

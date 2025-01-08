@@ -1,10 +1,10 @@
+**Python Projects**
+=====================
 
-*Last updated on 23/06/2024.*
+**Note:** This page contains my Work-In-Progress (WIP) projects, which are subjected to change.
 
-# Python Projects 💻
+**Language and Dependencies:** 
+---------------------------
 
-**These are my projects that are Work In Progress. (WIP)**
-
-*ALL FILES ARE IN PYTHON.*
-
-**Libraries Used: tkinter.**
+*   **Programming Language:** Python
+*   **Libraries Used:** `tkinter`

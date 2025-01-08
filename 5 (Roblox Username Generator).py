@@ -16,7 +16,7 @@ def generate_username(length):
     # Define the characters that can be used in the username
     chars = string.ascii_lowercase + string.digits
     
-    # Ensure first character is not a zero to avoid "0abc" usernames
+    # Make sure the first character is not a zero to avoid "0abc" usernames
     if length > 1:
         chars = chars[1:]
     
